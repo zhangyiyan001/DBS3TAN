@@ -1,8 +1,4 @@
 # -*- coding:utf-8 -*-
-"""
-作者：张亦严
-日期:2022年09月14日
-"""
 import torch
 import torch.nn as nn
 import numpy as np
