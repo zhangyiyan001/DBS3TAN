@@ -1,8 +1,4 @@
 # -*- coding:utf-8 -*-
-"""
-作者：张亦严
-日期:2022年10月04日
-"""
 from torch import nn
 from einops import rearrange
 import torch
